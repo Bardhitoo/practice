@@ -1,7 +1,10 @@
 def f(msg):
-    # Adding a different comment
-    # print a message
+    # No longer need comments here
     print(msg)
+
+def sec():
+    print("New function :) ")
+
 
 if __name__ == "__main__":
     f("Hello GitHub :) ")
